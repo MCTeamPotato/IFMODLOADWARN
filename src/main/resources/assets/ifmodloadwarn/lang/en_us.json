@@ -1,0 +1,5 @@
+{
+  "ifmodloadwarn.yes": "Yes",
+  "ifmodloadwarn.no": "No",
+  "ifmodloadwarn.title": "You have loaded the following blacklisted mods: %s"
+}

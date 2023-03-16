@@ -1,0 +1,5 @@
+{
+ "ifmodloadwarn.yes": "确认",
+ "ifmodloadwarn.no": "否",
+ "ifmodloadwarn.title": "你加载了黑名单模组： %s"
+ }
